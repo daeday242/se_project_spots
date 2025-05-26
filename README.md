@@ -66,7 +66,7 @@ A fully responsive image sharing website that adapts beautifully to all device s
 
 ## 🚀 Deployment
 
-Live Demo: [View on GitHub Pages](https://yourusername.github.io/se_project_spots/)
+Live Demo: [View on GitHub Pages](https://daeday242.github.io/se_project_spots/)
 
 ## ♿ Accessibility Features
 - Semantic HTML5 structure
