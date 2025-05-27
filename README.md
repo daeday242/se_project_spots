@@ -87,7 +87,7 @@ Live Demo: [View on GitHub Pages](https://daeday242.github.io/se_project_spots/)
 - Breakpoints carefully chosen for smooth transitions
 - All images optimized for fast loading
 - Tested across Chrome, Firefox and mobile browsers
-- Video Walkthrough: [Watch Explanation]
+- Website Video Walkthrough: [Watch Explanation Here](https://drive.google.com/file/d/1wtdIBdAxt1FEHuU95mvL1ASAMxSb9ams/view?usp=drive_link) 
 
 ## 🌱Future Enhancements
 
