@@ -91,12 +91,12 @@ Live Demo: [View on GitHub Pages](https://daeday242.github.io/se_project_spots/)
 
 ## 🌱Future Enhancements
 
-- Implement dark mode support
+- Implement dark mode support.
 
-- Add functional like button with counter
+- Add functional like button with counter.
 
-- Create responsive navigation menu
+- Create responsive navigation menu.
 
-- Add form validation for profile editing
+- Add form validation for profile editing.
 
-- Implement image loading optimization (lazy loading)
+- Implement image loading optimization (lazy loading).
