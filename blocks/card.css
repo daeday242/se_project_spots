@@ -17,6 +17,8 @@
     white-space: nowrap;
     overflow: hidden;
     max-width: 355px;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 .card__content {
@@ -44,20 +46,18 @@
 }
 
 @media screen and (max-width: 627px) {
-
-.card__image {
-    height: 288px;
+    .card__image {
+        height: 288px;
 }
 
-.card__title {
-    font-size: 16px;
-    line-height: 1;
-    font-weight: 500;
-    max-width: 250px;
+    .card__title {
+        font-size: 16px;
+        line-height: 1;
+        max-width: 250px;
 }
 
-.card__like-button {
-    width: 20px;
-    height: 18px;
+    .card__like-button {
+        width: 20px;
+        height: 18px;
 }
 }
