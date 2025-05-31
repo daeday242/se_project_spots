@@ -107,17 +107,12 @@
 }
 
     .profile__avatar {
-        margin-right: 0 0 6px;
         height: 80px;
         width: 80px;
 }
 
     .profile__name {
         font-size: 20px;
-        overflow: hidden;
-        display: -webkit-box;
-        -webkit-line-clamp: 3;
-        -webkit-box-orient: vertical;
         max-width: 288px;
 
 }
@@ -130,12 +125,6 @@
 
     .profile__description {
         margin: 0 0 32px;
-        overflow: hidden;
-        text-overflow: ellipsis;
-        display: -webkit-box;
-        -webkit-line-clamp: 3;
-        -webkit-box-orient: vertical;
-        max-width: 420px;
 }
 
     .profile__column {
@@ -143,6 +132,7 @@
 }
 
     .profile__add-btn {
+        width: 100%;
         margin: 0;
 }
 
