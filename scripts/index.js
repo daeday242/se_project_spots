@@ -18,7 +18,7 @@ const linkInput = newPostModal.querySelector('#post-description-input');
 
 editProfileButton.addEventListener('click', () => {
     openModal(editProfileModal);
-    editProfileNameInput.value = profileNameEl.textContent;g
+    editProfileNameInput.value = profileNameEl.textContent;
     editDescriptionInput.value = profileDescriptionEl.textContent;
     void editProfileModal.offsetWidth;
 });
