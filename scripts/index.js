@@ -1,3 +1,32 @@
+
+const initialCards = [
+  {
+    name: 'Val Thorens',
+    link: 'https://praktikum.yandex.ru/hj/assets/1-photo-by-moritz-feldmann-from-pexels.jpg'
+  },
+  {
+    name: 'Restaurant terrace',
+    link: 'https://praktikum.yandex.ru/hj/assets/2-photo-by-ceiline-from-pexels.jpg'
+  },
+  {
+    name: 'An outdoor cafe',
+    link: 'https://praktikum.yandex.ru/hj/assets/3-photo-by-tubanur-dogan-from-pexels.jpg'
+  },
+  {
+    name: 'A very long bridge over the forest',
+    link: 'https://praktikum.yandex.ru/hj/assets/4-photo-by-maurice-laschet-from-pexels.jpg'
+  },
+  {
+    name: 'Tunnel with morning light',
+    link: 'https://praktikum.yandex.ru/hj/assets/5-photo-by-van-anh-nguyen-from-pexels.jpg'
+  },
+  {
+    name: 'Mountain house',
+    link: 'https://praktikum.yandex.ru/hj/assets/6-photo-by-moritz-feldmann-from-pexels.jpg'
+  }
+];
+
+
 const editProfileButton = document.querySelector('.profile__edit-btn');
 const editProfileModal = document.querySelector('#edit-profile-modal');
 const editProfileCloseButton = editProfileModal.querySelector('.modal__close-btn');
@@ -62,3 +91,8 @@ function openModal(modal) {
 function closeModal(modal) {
   modal.classList.remove("modal_is-opened");
 }
+
+
+initialCards.forEach(card => {
+  console.log(card.name);
+});
